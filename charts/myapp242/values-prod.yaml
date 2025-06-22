@@ -1,1 +1,3 @@
 replicaCount: 2
+image:
+  tag: 23c4e9
